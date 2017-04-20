@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /advantage-avanze.html
+Disallow: /provider-services.html
+Disallow: /benefit-administration.html
+Disallow: /technology-services.html
+Disallow: /e-learning.html
+Disallow: /title-and-settlement-services.php
+Disallow: /sitemap.html
+
+Sitemap: http://www.avanzegroup.com/sitemap.xml
